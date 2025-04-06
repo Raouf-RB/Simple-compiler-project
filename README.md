@@ -42,7 +42,7 @@ picture 01:
 
 
 picture 02:
-![Exemple photo](https://github.com/Raouf-RB/Simple-compilerproject/blob/476c5bb6a47b6a0ed9114afdfcc222e1aa8fd1c9/Compiler%20project%20test_2.png)
+![Exemple photo 2](https://github.com/Raouf-RB/Simple-compiler-project/blob/97b4b8fe00ebf0f3d2f51e099a512cfebb12336f/Compiler%20project%20test_2.png)
 
 ## 👥 Authors
 
