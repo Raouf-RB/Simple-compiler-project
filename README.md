@@ -35,6 +35,10 @@ gcc -o compiler lex.yy.c b.tab.c -lfl
 
 This project was developed a for educational purposes, aiming to understand how compilers work, particularly the lexical and syntactic analysis (the frontend of the compiler).
 
+##Exemples
+![Description of Image]()
+
+
 ## 👥 Authors
 
 BOUSSAIDI ABDERRAOUF
