@@ -35,9 +35,14 @@ gcc -o compiler lex.yy.c b.tab.c -lfl
 
 This project was developed a for educational purposes, aiming to understand how compilers work, particularly the lexical and syntactic analysis (the frontend of the compiler).
 
-##Exemples
+##Exemples:
+picture 01:
+
 ![Exemple photo](https://github.com/Raouf-RB/Simple-compiler-project/blob/6d49ae81a338eef9d84cf5a26ea8fe2b239ac125/Compiler-project-test.png)
 
+
+picture 02:
+![Exemple photo](https://github.com/Raouf-RB/Simple-compilerproject/blob/476c5bb6a47b6a0ed9114afdfcc222e1aa8fd1c9/Compiler%20project%20test_2.png)
 
 ## 👥 Authors
 
