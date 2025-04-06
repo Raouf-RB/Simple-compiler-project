@@ -1,0 +1,4 @@
+flex f.l
+bison -d b.y
+gcc lex.yy.c b.tab.c -o pgr.exe -lfl -ly
+pgr.exe

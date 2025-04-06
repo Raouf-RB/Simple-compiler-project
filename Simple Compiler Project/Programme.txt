@@ -1,0 +1,26 @@
+PROGRAMME Nom
+VAR{
+INTEGER Aa;
+FLOAT D,E;
+INTEGER Bb;
+INTEGER i,Cc,A;
+INTEGER n;
+
+FLOAT X;
+FLOAT C[-5];
+
+}
+BEGIN
+
+
+
+Cc=E+Cc/(i+A);
+WHILE (i <n) {
+i=i+A;
+}
+
+
+//ta3 barah
+
+
+END.
